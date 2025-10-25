@@ -1,2 +1,2 @@
 # Shimboot-fix
-Fixes the homade shims (under work though)
+Goes over the problems with premade shims for shimboot
