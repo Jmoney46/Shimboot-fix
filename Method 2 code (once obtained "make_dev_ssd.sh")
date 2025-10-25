@@ -1,0 +1,1 @@
+./make_dev_ssd.sh -i $PATH_TO_IMAGE_OR_USB_DEVICE --partitions 2 --recovery --edit_config
