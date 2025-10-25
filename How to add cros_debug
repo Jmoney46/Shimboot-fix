@@ -1,0 +1,1 @@
+build_image --board $BOARD --boot_args cros_debug factory_install
