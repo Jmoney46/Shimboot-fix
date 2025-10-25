@@ -4,5 +4,5 @@ Goes over a problem I ran into when setting up shimboot on chromebook regaurding
 # Method 1: How to make one yourself adding cros_debug (most do able)
 So basically when you are making the shimboot like normal 
 <br>1.) build_image --board $BOARD, this is what it looks like normally, this is not what you want because it can get pretty gay.<br>
-2.) now, before you enter add "--boot_args cros_debug factory_install", this is what adds cros_debug to your sh1t.
+<br>2.) now, before you enter add "--boot_args cros_debug factory_install", this is what adds cros_debug to your sh1t.<br>
 3.) or you can just copy the code I put in the file.
