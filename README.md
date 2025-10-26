@@ -1,7 +1,7 @@
 # Shimboot-fix
 Goes over a problem I ran into when setting up shimboot on chromebook regaurding "cros_debug" when using the premade shims we was provided with.
 
-# IMPORTANT! SHIMBOOT REQUIRES "Firmware utility script" WHICH YOU MUST GET FROM https://docs.mrchromebox.tech/docs/fwscript.html
+<br>IMPORTANT! SHIMBOOT REQUIRES "Firmware utility script" WHICH YOU MUST GET FROM https://docs.mrchromebox.tech/docs/fwscript.html<br>
 
 # Method 1: How to make one yourself adding cros_debug (most do able)
 So basically when you are making the shimboot like normal 
